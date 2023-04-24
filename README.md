@@ -2,4 +2,4 @@
 
 Code repository for the book 'Machine Learning in Python for Process Monitoring and Predictive Maintenance'
 
-![](/Images/coverPage1.JPG)
+![](/Images/CoverPage1.JPG)
