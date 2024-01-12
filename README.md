@@ -12,6 +12,19 @@ Code repository for the book 'Machine Learning in Python for Process and Equipme
 ## Data sources for external datasets used in this book:
 [Weblinks mentioned below may change or may no longer exist in future. Relevant data files have been provided in the respective folders in this repository. If you plan to share or use any dataset, please abide by the license policy (and/or the citation requests, if any) for the dataset.]
 
+
+- *Aeration Tank Data*:  
+
+       Publicly available at https://openmv.net/info/aeration-rate.
+  
+
+- *Steam Generator Data*:
+
+       Obtained from https://homes.esat.kuleuven.be/~smc/daisy/daisydata.html’
+       
+       Citation: De Moor B.L.R. (ed.), DaISy: Database for the Identification of Systems, Department of Electrical Engineering, ESAT/STADIUS, KU Leuven, Belgium, URL: http://homes.esat.kuleuven.be/~smc/daisy/.
+
+
 - *Polymer Manufacturing Process Data*:  
 
        Originally obtained from https://landing.umetrics.com/downloads-other-downloads (unfortunately this link no longer seems to work; data file is provided in the respective folder in this repository). 
@@ -33,6 +46,13 @@ Code repository for the book 'Machine Learning in Python for Process and Equipme
        Obtained from http://www.eigenvector.com/data/Etch/. 
        
        Citation: B.M. Wise, N.B. Gallagher, S.W. Butler, D.D. White, Jr. and G.G. Barna, "A Comparison of Principal Components Analysis, Multi-way Principal Components analysis, Tri-linear Decomposition and Parallel Factor Analysis for Fault Detection in a Semiconductor Etch Process", J. Chemometrics (1999).
+  
+
+- *Gas Boiler Data*: 
+
+       Shohet et al., Simulated boiler data for fault detection and classification. Available at https://ieee-dataport.org/open-access/simulated-boiler-data-fault-detection-and-classification, IEEE Dataport, 2019.
+
+       Data shared under Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/).
        
   
 - *Debutanizer Column Data from a Petroleum Refinery*:
