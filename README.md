@@ -62,11 +62,16 @@ Code repository for the book 'Machine Learning in Python for Process and Equipme
        Citation: Fortuna et. al., Soft sensors for monitoring and control of industrial processes, Springer, 2007
 
        
-- *Combined Cycle Power Plant data*:
+- *Combined Cycle Power Plant Data*:
 
        Available at the UCI machine learning repository https://archive.ics.uci.edu/ml/datasets/combined+cycle+power+plant
        
        Citation: Pınar Tüfekci, Prediction of full load electrical power output of a base load operated combined cycle power plant using machine learning methods, International Journal of Electrical Power & Energy Systems, Volume 60, September 2014, Pages 126-140, ISSN 0142-0615
+
+
+- *Fluid Catalytic Cracking Unit Data*:
+
+       Details available at https://mlforpse.com/fccu-dataset/.
 
 
 - *Wind Turbine Data*:
