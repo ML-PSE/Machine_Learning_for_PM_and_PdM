@@ -9,7 +9,7 @@ Code repository for the book 'Machine Learning in Python for Process and Equipme
 - *Google Play*:  Coming soon ...
 - *LeanPub*:  https://leanpub.com/ML-Python-for-PM-PdM
 
-## Data sources for external datasets used in this book:
+## Data sources for datasets used in this book:
 [Weblinks mentioned below may change or may no longer exist in future. Relevant data files have been provided in the respective folders in this repository. If you plan to share or use any dataset, please abide by the license policy (and/or the citation requests, if any) for the dataset.]
 
 
