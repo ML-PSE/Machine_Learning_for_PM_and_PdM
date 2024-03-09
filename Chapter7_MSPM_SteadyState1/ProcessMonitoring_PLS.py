@@ -41,7 +41,7 @@ print('Y variance captured: ', 100*pls.score(X_train_normal, Y_train_normal), '%
 
 Tscores = pls.x_scores_
 X_train_normal_reconstruct = np.dot(Tscores, pls.x_loadings_.T) 
-# can also use ls.inverse_transform(Tscores)
+# can also use pls.inverse_transform(Tscores)
 
 print('X variance captured: ', 100*r2_score(X_train_normal, X_train_normal_reconstruct), '%')
 
